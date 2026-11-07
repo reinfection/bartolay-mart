@@ -30,7 +30,7 @@ A secure web-based inventory management and administrative control system built 
 
 ## 🛠️ Tech Stack & Dependencies
 
-* **Language**: PHP 8.x (MySQLi prepared statements)
+* **Language**: PHP, JavaScript
 * **Database**: MySQL / MariaDB (InnoDB engine, foreign keys)
 * **Styling & UI**: Custom CSS3, Lucide Icons (`unpkg.com/lucide@latest`)
 * **Environment**: Windows 11 / XAMPP (Apache)
