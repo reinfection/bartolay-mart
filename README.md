@@ -88,7 +88,7 @@ bartolay-mart/
    * Log in using the **root** test credentials listed above.
 
 6. **Test User Registration & Admin Approval Workflow**:
-   - Open your browser and navigate to `http://localhost/linuxlocalhost/register.php`.
+   - Open your browser and navigate to `http://localhost/linuxlocalhost` and click "Create Account".
    - Register a new test account (e.g., username: `example`, password: `anypassuwant`).
    - Log out if logged in, then sign in with the admin credentials (`root` / `root123`).
    - Access **Registration Approvals** from the sidebar, select a role (`Staff` or `Manager`), and click **Approve**.
